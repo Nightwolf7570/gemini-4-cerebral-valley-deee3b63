@@ -1,0 +1,9 @@
+[
+  { "id": "cliff", "title": "Cliff kick", "image": "cliff-projectile.png", "text": "" },
+  { "id": "pendulum", "title": "Pendulum", "text": "A 2.0 kg bob hangs from a 1.5 m string and is released from rest at 30° from vertical. Find (a) the period of the swing and (b) the maximum speed of the bob." },
+  { "id": "spring", "title": "Spring", "text": "A 0.50 kg block on a frictionless floor is attached to a spring with k = 20 N/m. It is pulled 0.10 m from equilibrium and released. Find (a) the period, (b) the maximum speed, and (c) the maximum acceleration." },
+  { "id": "incline", "title": "Incline", "text": "A 5.0 kg block starts from rest at the top of a 4.0 m long ramp inclined at 30°. The coefficient of kinetic friction is 0.20. Find (a) the block's acceleration and (b) its speed at the bottom of the ramp." },
+  { "id": "collision", "title": "Collision", "text": "A 2.0 kg cart moving at 3.0 m/s collides elastically with a 1.0 kg cart at rest on a frictionless track. Find the velocity of each cart after the collision." },
+  { "id": "orbit", "title": "Orbit", "text": "A satellite orbits Earth in a circular orbit 400 km above the surface. Earth's mass is 5.97 × 10^24 kg and radius 6371 km. Find (a) the orbital speed and (b) the period." },
+  { "id": "rc", "title": "RC circuit", "text": "A 10 µF capacitor is charged through a 1.0 kΩ resistor by a 9.0 V battery, starting uncharged. Find (a) the time constant and (b) the capacitor voltage after 20 ms." }
+]
